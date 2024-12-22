@@ -142,7 +142,7 @@ def main():
     st.markdown(
         """
         <div style="text-align: center; margin-top: 50px; font-size: 1em;">
-            <p>Made with ❤️ by <b>Pranav</b></p>
+            <p>Made with ❤️</p>
         </div>
         """,
         unsafe_allow_html=True,
